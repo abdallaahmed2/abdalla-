@@ -102,8 +102,8 @@ echo "<tr>";
       <div class="link">
           رواد التكنولوجيا سارع الطار
           <br/>
-          0991309993 : التلفون
-          <br/>
+          099: 
+          < ر/>
           00967714490030 : تلفاكس
           <br/>
           البريد الاكتروني : en_radwad50@yahoo.com
@@ -111,8 +111,7 @@ echo "<tr>";
           او عبر الصفحات الاجتماعية 
           <br/>
           <a href="https:www.facebook.com"><img src="img/face.png"></a>
-          <a href="https:www.youtube.com"><img src="img/you.png"></a>
-          <a href="https:www.twiter.com"><img src="img/twt.png"></a>
+          <a href="https:www.youtube.com"><img src="img/you.png"></a>    <a href="https:www.twiter.com"><img src="img/twt.png"></a>
           <br/>
       </div>
       <div class="soc">
